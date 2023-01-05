@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671391553 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\main.cpp
+	"graph.h"
+
+1671379734 c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\graph.h
+	<iostream>
+
+1671391381 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\graph.cpp
+	"graph.h"
+

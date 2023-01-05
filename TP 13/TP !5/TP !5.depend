@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672592610 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\tp !5\tree.cpp
+	"tree.h"
+
+1672592095 c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\tp !5\tree.h
+	<iostream>
+
+1672592455 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tp\tp 13\tp !5\main.cpp
+	"tree.h"
+
